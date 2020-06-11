@@ -1,0 +1,12 @@
+let x=1045678623;
+let y=10.67890;
+let z=567456789087654365;
+console.log(x);
+console.log(y);
+console.log(z);
+console.log(typeof(x));
+console.log(typeof(y));
+console.log(typeof(z));
+console.log(x.toFixed(16));
+console.log(y.toFixed(1));
+console.log(z.toFixed(5));

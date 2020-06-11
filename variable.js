@@ -1,0 +1,11 @@
+let x=10;
+let y=10.20;
+let name="Shyam";
+let age=19;
+let bool=true;
+console.log(x);
+console.log(y);
+console.log(name);
+console.log(age);
+console.log(bool);
+console.log(name+" "+bool);

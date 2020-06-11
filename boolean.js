@@ -1,0 +1,12 @@
+const male=true;
+const female=false;
+const others=NaN;
+const x=-5;
+const y=0;
+const z=undefined;
+console.log(Boolean(male));
+console.log(Boolean(female));
+console.log(Boolean(others));
+console.log(Boolean(x));
+console.log(Boolean(y));
+console.log(Boolean(z));

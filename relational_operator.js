@@ -1,0 +1,10 @@
+const x=20;
+const y=90;
+console.log(x<y);
+console.log(x>y);
+console.log(x<=y);
+console.log(x>=y);
+console.log(x==y);
+console.log(x!=y);
+console.log(x===y);
+console.log(x!==y);

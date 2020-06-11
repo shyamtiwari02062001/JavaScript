@@ -1,0 +1,16 @@
+const x=10;
+const y=9;
+const z=200;
+const sum=x+y+z;
+const diff=x+z-y;
+const mult=x*y*z;
+const div=z/y;
+const mod=z%y;
+console.log(x);
+console.log(y);
+console.log(z);
+console.log(sum);
+console.log(diff);
+console.log(mult);
+console.log(div);
+console.log(mod);
